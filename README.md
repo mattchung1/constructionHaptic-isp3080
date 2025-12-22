@@ -5,6 +5,17 @@ The system delivers directional or event-based haptic cues to a wearer based on 
 
 ---
 
+## Project Documents
+
+PCB view for the Construction Haptic
+
+![PCB Layout View](exampleLayout/construction-1.4-altium.png)
+
+SCH view for the Construction Haptic
+
+![PCB Layout View](exampleLayout/mixedSch.png)
+
+
 ## Repository Structure
 
 ```
